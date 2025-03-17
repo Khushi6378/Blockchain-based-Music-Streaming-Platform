@@ -23,4 +23,6 @@ This platform aims to disrupt the traditional music industry by ensuring fair co
 - Global accessibility for artists and listeners without middlemen.
 - Transparent ledger for tracking artist earnings and listener contributions.
 
+Contract Address:0x5609c5176F9b5DBfeEb6836F4E1B79269859A114
+![Screenshot 2025-03-17 161158](https://github.com/user-attachments/assets/a9cf56a6-e4ac-4f93-815c-f908ba312af2)
 
